@@ -16,6 +16,7 @@ import java.util.List;
  * @version 1.0
  * @since 1.0 2020/06/16
  */
+@CrossOrigin()
 @RestController
 @RequestMapping("/")
 public class MessageController {
